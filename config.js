@@ -8,7 +8,7 @@ var config = {
         "I wish you enjoy this special day",
         "Enjoy every moment",
         "In English corner",
-        "There were so much joy and laughters all around",
+        "There were so much joy and laughter all around",
         "Those years are like treasures to me",
         "and to everybody",
         "I wish we would have another life to do that again",
@@ -32,7 +32,7 @@ var config = {
       //  "I wish you enjoy this special day": 
         "Enjoy every moment": "./imgs/20150731_192013.jpg",
       //  "In English corner":
-     //   "There were so much joy and laughters all around": "./imgs/",
+     //   "There were so much joy and laughter all around": "./imgs/",
         "Those years are like treasures to me": "./imgs/20160816_180707.jpg",
         "and to everybody": "./imgs/FB_IMG_1467757516309.jpg",
      //   "I wish we would have another life to do that again": "./imgs/"
