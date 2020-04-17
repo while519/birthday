@@ -11,7 +11,7 @@ var config = {
         "There were so much joy and laughter all around",
         "Those years are like treasures to me",
         "and to everybody",
-        "I wish we would have another life to do that again",
+        "I wish those days would stay much longer",
         "Thank you so much!",
         "May you a day filled with great fun",
         "and a year filled with true happiness!",
